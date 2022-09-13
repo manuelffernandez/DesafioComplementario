@@ -1,4 +1,4 @@
-# Firs assignment by Coderhouse :grinning:
+# First assignment by Coderhouse :grinning:
 *24 of August 2022*
 
 The first assigment requested by the Institute where I´m currently learning. Do a simple algorithm implementing the basics of the lenguage:
